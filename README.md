@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/danila-nagornyi-250182200/">
   <img align="left" alt="Olga Nagornaya| LinkedIN" width="22px" src="https://ru.m.wikinews.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:LinkedIn_icon_circle.svg#/media/File%3ALinkedin_circle.svg"/>
 </a>
+<a title="ZyMOS-Bot, CC0, через Викисклад" href="https://commons.wikimedia.org/wiki/File:Linkedin_icon.svg"><img width="256" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"></a>
 
 <br />
 
