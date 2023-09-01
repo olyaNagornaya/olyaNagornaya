@@ -8,7 +8,7 @@
 
 
 <a href="https://www.linkedin.com/in/danila-nagornyi-250182200/">
-  <img align="left" alt="Olga Nagornaya| LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Olga Nagornaya| LinkedIN" width="22px" src="https://ru.m.wikinews.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:LinkedIn_icon_circle.svg#/media/File%3ALinkedin_circle.svg"/>
 </a>
 
 <br />
